@@ -1,0 +1,76 @@
+body{
+    background-color: aqua;
+    border: 0px solid black;
+}
+
+.content{
+    display: flex;
+}
+
+.DATOS{
+    background-color: beige;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.profile-description{
+    background-color: beige;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    /*border-left: 100px;*/
+    padding-left: 444px;
+    /*border-right: 100px;*/
+    padding-right: 444px;
+    padding-top: 20px;
+    justify-content: space-around;
+    align-items: normal;
+}
+
+.contacto{
+    background-color: beige;
+    border: 1px solid black;
+    margin-right: 8050px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    text-align: left;
+    font-display: 10px;
+}
+
+#foto{
+    height: 100px; width: 80px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#image-profile{
+    margin-top: 100px;
+}
+
+h3{
+    text-align: center;
+}
+
+ol.skills{
+    list-style-type: none;
+}
+
+ul.b{
+    list-style-type: none;
+}
+
+ul.c{
+    list-style-type: none;
+}
+
